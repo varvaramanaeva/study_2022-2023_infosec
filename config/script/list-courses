@@ -1,8 +1,0 @@
-#!/bin/bash
-## Generate list of courses
-## Output: course-name course-description
-
-source ./config/script/functions
-
-list-courses | sort -k 2
-
