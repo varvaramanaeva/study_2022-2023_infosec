@@ -1,0 +1,12 @@
+:::::::::::::: {.columns align=center}
+::: {.column width="50%"}
+
+![Просмотр файла](image/8.1.png){#fig:108 width=70%}
+
+:::
+::: {.column width="50%"}
+
+![Нахожу учетную запись](image/8.2.png){#fig:208 width=70%}
+
+:::
+::::::::::::::
